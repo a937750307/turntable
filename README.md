@@ -6,4 +6,4 @@
 
 [演示地址：https://turntable.937788.xyz/](https://turntable.937788.xyz/)
 
-<img width="1920" height="1249" alt="随机转盘工具" src="https://github.com/user-attachments/assets/e082fec1-3507-4f9d-bf73-be73bf815d2b" />
+<img width="1920" height="1605" alt="随机转盘工具" src="https://github.com/user-attachments/assets/5a284ec7-970d-4e17-99be-a095db7e86ea" />
